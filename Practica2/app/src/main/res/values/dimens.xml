@@ -1,0 +1,21 @@
+<resources>
+    <dimen name="app_bar_height">180dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+    <dimen name="radius">16dp</dimen>
+    <dimen name="margin_botom">16dp</dimen>
+    <dimen name="pading_botom">10dp</dimen>
+    <dimen name="imagen_height">150dp</dimen>
+    <dimen name="pading_start">8dp</dimen>
+    <dimen name="text_size">16sp</dimen>
+    <dimen name="title_size">25sp</dimen>
+    <dimen name="margin_end">16dp</dimen>
+    <dimen name="bottomBar_height">50dp</dimen>
+    <dimen name="plus_width">60dp</dimen>
+    <dimen name="plus_height">50dp</dimen>
+    <dimen name="plus_margin_bottom">30dp</dimen>
+    <dimen name="plus_margin_Start">335dp</dimen>
+    <dimen name="Padding_Start_layout">16dp</dimen>
+    <dimen name="padding_top_layaout">50dp</dimen>
+    <dimen name="padding_bottom_scroll">50dp</dimen>
+</resources>
