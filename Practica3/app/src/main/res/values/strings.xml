@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Practica3</string>
+    <string name="image_description">hola</string>
+    <string name="hint_username">Nombre de Usuario</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="helper_username">Obligatorio</string>
+    <string name="button_register">Registrar</string>
+    <string name="sp_firt_time">PrimeraVez</string>
+    <string name="username">Usuario</string>
+    <string name="password">Contrasena</string>
+    <string name="last_new">ultimaNoticia</string>
+
+</resources>
